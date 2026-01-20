@@ -42,7 +42,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73042</dc:source>
 		<dc:source>https://archive.org/details/wellofloneliness0000radc_m5d4</dc:source>
-		<meta property="se:word-count">167885</meta>
+		<meta property="se:word-count">164636</meta>
 		<meta property="se:reading-ease.flesch">67.49</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Well_of_Loneliness</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/radclyffe-hall_the-well-of-loneliness</meta>
