@@ -46,7 +46,7 @@
 		<meta property="schema:wordCount">164636</meta>
 		<meta property="schema:educationalLevel">67.49</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Well_of_Loneliness" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/radclyffe-hall_the-well-of-loneliness" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Radclyffe Hall</dc:creator>
