@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young woman struggles to understand and accept herself, and particularly her love of other women, in a society that rejects her unconventional behavior as unfeminine and even unnatural.</dc:abstract>
+		<meta property="schema:abstract">A young woman struggles to understand and accept herself, and particularly her love of other women, in a society that rejects her unconventional behavior as unfeminine and even unnatural.</meta>
 		<dc:description>
 			&lt;p&gt;Confident of a son, Sir Philip and Lady Anna Gordon plan to name their first child Stephen. Instead they receive a daughter—but they decide to keep the name anyway. Young Stephen Gordon continues to surprise her parents with her boisterous play, demands for shorter hair, and insistence on riding her horse astride. After a childhood crush on a housemaid, Stephen begins to realize for herself that she is different than the world expects. As Stephen grows into adulthood and leaves her home and then England, her life is continually shaped by her love and affection for other women.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/radclyffe-hall"&gt;Radclyffe Hall&lt;/a&gt;, like her protagonist, had a number of romantic relationships with other women, and identified herself as an “invert” following the theory of sexual inversion that was developing at the time. Hall wrote the novel partly to promote the theory and directly references some of its advocates within the book.&lt;/p&gt;
