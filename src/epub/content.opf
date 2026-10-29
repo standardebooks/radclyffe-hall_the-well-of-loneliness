@@ -51,7 +51,7 @@
 		<link href="https://github.com/standardebooks/radclyffe-hall_the-well-of-loneliness" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Radclyffe Hall</dc:creator>
 		<meta property="file-as" refines="#author">Hall, Radclyffe</meta>
-		<meta property="schema:alternateName" refines="#author">Marguerite Antonia Radclyffe Hall</meta>
+		<meta property="schema:alternateName" refines="#author">Marguerite Antonia Radclyffe-Hall</meta>
 		<link href="https://en.wikipedia.org/wiki/Radclyffe_Hall" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50018665.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
